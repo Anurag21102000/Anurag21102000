@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Singh</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-![image](https://github.com/Anurag21102000/Anurag21102000/assets/83533123/b95aaef2-b612-499b-935c-10f1e8dab496)
-">
+<img src="https://github.com/Anurag21102000/Anurag21102000/assets/83533123/b95aaef2-b612-499b-935c-10f1e8dab496" alt="PIC" width="500" align="right" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag21102000&label=Profile%20views&color=0e75b6&style=flat" alt="anurag21102000" /> </p>
 
