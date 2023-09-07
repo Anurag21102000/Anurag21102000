@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag21102000&label=Profile%20views&color=0e75b6&style=flat" alt="anurag21102000" /> </p>
 
-- 🔭 I’m currently working on [AI/ML_Comviva Project](https://github.com/eebadreza/AI_ML_Comviva/tree/main)
 
 - 🌱 I’m currently learning **ReactJs**
 
